@@ -31,8 +31,14 @@ clasp create --type standalone
 npm ci
 ```
 
+## Build
+
+```bash
+npm run build
+```
+
 ## Deploy
 
 ```bash
-clasp push
+npm run deploy
 ```
